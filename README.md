@@ -94,6 +94,16 @@ The project includes functional and security-oriented testing for:
 
 ===
 
+
+## Screenshots
+
+### Employee Dashboard
+
+![Employee Dashboard](Screenshots/employee-dashboard.png)
+
+
+
+
 ## Local Installation
 
 ### Clone Repository
