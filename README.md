@@ -98,8 +98,25 @@ The project includes functional and security-oriented testing for:
 ## Screenshots
 
 ### Employee Dashboard
-
 ![Employee Dashboard](Screenshots/employee-dashboard.png)
+
+### System Logs
+![System Logs](Screenshots/system-logs.png)
+
+### Attendance History
+![Attendance History](Screenshots/attendance-history.png)
+
+### Admin Dashboard
+![Admin Dashboard](Screenshots/admin-dashboard.png)
+
+## Leave Request
+![Leave Request](Screenshots/leave-request.png)
+
+### MFA Setup
+![MFA Setup](Screenshots/mfa-setup.png)
+
+### Login Page
+![Login Page](Screenshots/login-page.png)
 
 
 
